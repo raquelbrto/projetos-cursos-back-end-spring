@@ -1,2 +1,2 @@
-# projetos-cursos-back-end-spring
-projetos feitos durante cursos 
+# projetos cursos back-end com ecossistema spring
+projetos feitos durante cursos online
